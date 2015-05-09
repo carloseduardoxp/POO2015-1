@@ -8,7 +8,7 @@ import utilitario.Pagamento;
 
 public class Processamento {
 	
-	private Imposto impostos;
+	private Imposto impostos; 
 	
 	private Estoque estoque;
 	
